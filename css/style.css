@@ -1584,8 +1584,8 @@ button { font: inherit; color: inherit; }
 }
 
 /* Hero: the product photo is portrait, so show it at its natural ratio */
-.page-xmas .hero__figure img { aspect-ratio: 2 / 3; object-position: center 60%; }
-.page-xmas .hero__media { max-width: 520px; justify-self: end; width: 100%; }
+.page-xmas .hero__figure img { aspect-ratio: 4 / 5; object-position: center 40%; }
+.page-xmas .hero__media { max-width: 560px; justify-self: end; width: 100%; }
 .page-xmas .hero__title { font-size: clamp(2.6rem, 1.5rem + 3.8vw, 4.6rem); }
 .page-xmas .eyebrow { display: inline-flex; align-items: center; gap: .6rem; }
 .page-xmas .hero .eyebrow::before {
